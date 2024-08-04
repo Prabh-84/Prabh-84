@@ -3,11 +3,7 @@
 <ing align ="right" width =400 alt="coding" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw1G3YbPGMKSJTgILq42yecG&ust=1711452694611000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJCMmKGoj4UDFQAAAAAdAAAAABAE">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prabh-84&label=Profile%20views&color=0e75b6&style=flat" alt="prabh-84" /> </p>
 
-- 🌱 I’m currently learning **Python**
-
-- 💬 Ask me about **C**
-
-- 📫 How to reach me **prabh09082005@gmail.com**
+- 🌱 I’m currently learning Web development
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
