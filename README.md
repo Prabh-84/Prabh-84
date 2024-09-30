@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Prabhjot Singh</h1>
-<h3 align="center">I am a coding enthusiast</h3>
+<h3 align="center">
+  <a href="https://github.com/prabh-84">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0E75B6&width=435&lines=Coding+Enthusiast;Web+Development+Learner;Love+Building+Projects+%26+Learning" alt="Typing SVG" />
+  </a>
+</h3>
 
 <img align="right" width="400" alt="coding" src="https://raw.githubusercontent.com/rudrabarad/Gifs/master/coding.gif">
 
@@ -7,7 +11,7 @@
   <img src="https://komarev.com/ghpvc/?username=prabh-84&label=Profile%20views&color=0e75b6&style=flat" alt="prabh-84" /> 
 </p>
 
-- 🌱 I’m currently learning Web development
+- 🌱 I’m currently learning **Web Development**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -24,8 +28,8 @@
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
   </a> 
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> 
+  <a href="https://isocpp.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
   </a> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
@@ -44,6 +48,12 @@
   </a>
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
   </a>
 </p>
 
