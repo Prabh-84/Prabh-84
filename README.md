@@ -13,15 +13,6 @@
 
 - 🌱 I’m currently learning **Web Development**   <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right">
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/prabhjot-singh" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prabhjot singh" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/prabh84_" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prabh84_" height="30" width="40" />
-  </a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
